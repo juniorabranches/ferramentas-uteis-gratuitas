@@ -3,7 +3,7 @@
 ## Design + Código
 >RECURSOS DE DESIGN GRATUITOS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Freebbble | Itens grátis de alta qualidade no Dribbble | http://freebbble.com/
 Dribbble | Resultados de busca para “freebie” no Dribbble. Um tremendo acervo de freebies | https://dribbble.com/search?q=freebie
@@ -26,7 +26,7 @@ Tethr | O mais lindo kit de design para o iOS que existe | http://www.invisionap
 
 >SELETORES DE CORES
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Material Palette | Crie e exporte uma paleta de cores Material Design | http://www.materialpalette.com/
 New Flat UI Color Picker | Os melhores tons flat para UI Design | http://www.flatuicolorpicker.com/
@@ -51,7 +51,7 @@ Palette for Chrome | Cria uma paleta de cores a partir de uma imagem | https://c
 
 >INSPIRAÇÃO
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 MaterialUp | Inspiração diária para Material Design | http://www.materialup.com/
 FLTDSGN | Uma exibição diária dos melhores exemplos de flat design em sites e apps | http://fltdsgn.com/
@@ -75,7 +75,7 @@ Niice | Um site de busca com bom gosto | https://niice.co/
 
 >BANCOS DE IMAGENS GRATUITOS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Stock Up | Os melhores bancos de imagens gratuitos em um só lugar | http://www.sitebuilderreport.com/stock-up
 Pexels | As melhores fotos gratuitas | http://www.pexels.com/
@@ -119,7 +119,7 @@ Bucketlistly | Uma coleção gratuita (Creative Commons) com fotos de viagens | 
 
 >TIPOGRAFIA GRATUITA
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 TypeGenius | Encontre a combinação perfeita de fontes para seu próximo projeto | http://www.typegenius.com/
 Font Squirrel | Fontes comerciais 100% gratuitas | http://www.fontsquirrel.com/
@@ -133,7 +133,7 @@ Font-to-width | Acomode trechos de texto em seus respectivos espaços | http://f
 
 >ÍCONES GRATUITOS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Fontello | Gerador de fontes a partir de ícones | http://fontello.com/
 Flat Icon | Um site de busca para mais de 16000 ícones vetorizados | http://www.flaticon.com/
@@ -151,7 +151,7 @@ Icon Sweets | 60 ícones vetorizados para Photoshop | http://iconsweets.com/
 
 >ITENS ÚTEIS E GRATUITOS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 UI Names | Gerador de nomes aleatórios para uso em design de peças e modelos | http://uinames.com/
 UI Faces | Encontre e crie amostras de fotos de avatar para interfaces do usuário | http://uifaces.com/
@@ -162,7 +162,7 @@ Window Resizer | Veja como algo se parece em várias resoluções de tela | http
 ## Business + Marketing
 >WEBSITE GRATUITO + LOGO + HOSPEDAGEM + INVOICES
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 HTML5 UP | Templates responsivos de HTML5 e CSS3.
 Bootswatch | Temas gratuitos para Bootstrap.
@@ -179,7 +179,7 @@ Slimvoice | Invoices absurdamente simples.
 
 >GERADORES DE NOMES PARA NEGÓCIOS E PROJETOS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 The Name App | Encontre um nome disponível para sua brilhante ideia.
 Naminum | Descubra o nome perfeito para sua empresa.
@@ -192,7 +192,7 @@ Domainr | Busca rápida e gratuita de nomes de domínio. URLs curtos.
 
 >TEXTOS / BLOGS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Hemingway | Este app torna sua escrita em inglês mais clara e impactante.
 Grammarly | Localiza e corrige erros gramaticais em inglês.
@@ -208,7 +208,7 @@ Egg Timer | Crie um timer e salve nos favoritos para usar novamente.
 
 >IDEIAS E TENDÊNCIAS DE CONTEÚDO
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Portent | Gerador de ideias de conteúdo (em inglês).
 Google Trends | Uma nova forma de mostrar termos mais buscados.
@@ -218,7 +218,7 @@ Swayy | Descubra o conteúdo mais impactante. Grátis para 1 usuário (em inglê
 
 >SEO GRÁTIS + ANÁLISE DE WEBSITES
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Open Site Explorer | Uma ferramenta compreensível para análise de links.
 Ahrefs | Explorador de sites e checagem de backlinks.
@@ -246,7 +246,7 @@ Shopify E-commerce Report | Obtenha um relatório gratuito do seu e-commerce.
 
 >OTIMIZADORES DE IMAGENS GRATUITOS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 TinyJPG , TinyPNG | Compactação de imagens.
 Compressor.io | Otimização e compactação de imagens online.
@@ -257,7 +257,7 @@ Smush.it | Plugin do Wordpress para otimização de imagens.
 
 >EDITORES DE IMAGENS GRATUITOS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Canva | Design gráfico extremamente simples para blogueiros.
 Pixlr | O Pixlr Editor é um editor de fotos robusto que pode ser acessado no seu browser.
@@ -270,7 +270,7 @@ Meme Generator | O primeiro gerador online de memes.
 
 >COLETA & ENVIO DE EMAILS GRÁTIS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Contact form 7 | Um famoso plugin Wordpress para coletar endereços de email.
 Mailchimp | Mande 12.000 emails para 2.000 assinantes de graça.
@@ -282,7 +282,7 @@ Sumome Scroll Box | Capture mais endereços de email, educadamente.
 
 >MÍDIA SOCIAL GRATUITA + GESTÃO DE COMUNIDADES + PESQUISAS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------ 
 WriteRack | A forma mais fácil de blogar/tuitar.
 Spruce | Crie imagens prontas para o Twitter em segundos.
@@ -309,7 +309,7 @@ Tally | Crie pesquisas rapidamente.
 
 >TESTES A/B & GROWTH HACKING
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Petit Hacks | Hacks de aquisição, retenção e renda usados por empresas.
 Optimizely | Plataforma de otimização para websites e apps.
@@ -319,7 +319,7 @@ GrowthHackers | Possibilitando o crescimento. Juntos.
 ## Trabalho & Produtividade
 >SOM PARA AJUDAR NA CONCENTRAÇÃO
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Noisli | Ruído de fundo e gerador de cores | http://www.noisli.com/
 Noizio | Equalizador de som ambiente para relaxamento e produtividade | http://noiz.io/
@@ -329,14 +329,14 @@ Coffitivity | Toque os sons de uma cafeteria | https://coffitivity.com/
 
 >FERRAMENTAS PARA EVITAR DISTRAÇÕES
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Self Control | Mac: aplicativo gratuito para ajudá-lo a evitar sites que o distraem | http://selfcontrolapp.com/
 Cold Turkey | Windows: bloqueie temporariamente os sites que causam distração | http://getcoldturkey.com/
 
 >ORGANIZAÇÃO & COLABORAÇÃO
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Trello | Tome nota de tudo | https://trello.com/
 Evernote | O espaço de trabalho da sua vida | https://evernote.com/
@@ -351,7 +351,7 @@ Markticle | Marque o progresso da sua leitura de artigos para continuar mais tar
 
 >NÔMADES DIGITAIS & TRABALHO À DISTÂNCIA
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Nomadlist | As melhores cidades para viver e trabalhar remotamente | http://nomadli.st/
 Where Nomads at | Encontre nômades digitais e viajantes do mundo inteiro | http://where-my-nomads.at/
@@ -361,7 +361,7 @@ What’s It Like | Ajudando os viajantes a decidir QUANDO partir | http://www.wh
 ## Descoberta & Aprendizado
 >FERRAMENTAS DE DESCOBERTA & STARTUPS
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Product Hunt | Curadoria dos melhores produtos novos, todos os dias | http://www.producthunt.com/
 Angellist | Onde o mundo encontra startups | https://angel.co/
@@ -372,7 +372,7 @@ Erli Bird | Onde nascem excelentes produtos | http://erlibird.com/
 
 >CRIAÇÃO EM EQUIPE
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Assembly | Co-criação de novas ideias, não importa onde estejam | https://assembly.com/discover
 CoFoundersLab | Encontre um co-fundador em qualquer cidade e qualquer indústria | https://www.cofounderslab.com/
@@ -380,7 +380,7 @@ Founder2be | Encontre um co-fundador para a sua startup | http://www.founder2be.
 
 >APRENDIZADO
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Skillshare | Liberte sua criatividade com aulas e projetos gratuitos na web | http://www.skillshare.com/
 Khan Academy | Educação gratuita de nível internacional para qualquer pessoa, em qualquer lugar | https://www.khanacademy.org/
@@ -396,7 +396,7 @@ reSRC.io | Todos os recursos gratuitos para aprender programação | http://resr
 
 >NEWSLETTERS QUE NÃO SÃO UM SACO
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Email1K | Um curso grátis de 30 dias para dobrar sua lista de emails | http://email1k.com/
 Design for Hackers | 12 semanas de aprendizado em design, direto na sua caixa de entrada | http://designforhackers.com/
@@ -409,7 +409,7 @@ UX Design Weekly | Os melhores links sobre experiência do usuário, toda semana
 
 >UTILIDADES
 
-Nome | Website | Descrição
+Nome | Descrição | Website
 ------------ | ------- | ------------
 Foundrs | Calcula a porcentagem destinada a cada co-fundador | http://foundrs.com/
 Ad Spend Calculator | A minha startup deve pagar por publicidade? | http://ad-spend-calculator.qwilr.com/
